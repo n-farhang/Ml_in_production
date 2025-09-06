@@ -1,2 +1,5 @@
 book/
 index.html
+./convert_to_pdf.py
+./book.pdf 
+./calibri.ttf 
